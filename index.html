@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Who'd have thought open source would take it this far?</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(function() {
+            var limit = 13        // how many repos to list
+            var login = 'zawsx'   // your username
+
+            var repos = [], list = $('#right_menu ul')
+
+            $.getJSON('http://github.com/api/v1/json/' + login + '?callback=?', function(data) {
+                $.each(data.user.repositories, function() {if (!this.fork) repos.push(this)  })
+                repos.sort(function(a, b) {return b.watchers - a.watchers })
+                $.each(repos.slice(0, limit), function() {
+                    list.append('<li><a href="' + this.url + '">' + this.name + '</a></li>')
+                    })
+                })        
+            })
+</script></head>
+<body><div id="container"><div id="header"><h1>zawsx.github.com</h1><h2>github's where i share</h2></div>
+<div id="linkbar">
+    <div id="navcontainer">
+        <ul id="navlist">
+            <li><a href="http://setzweb.com">Engine Yard</a></li>
+        </ul>
+    </div>
+</div>
+
+
+
+<div id="content">
+    <div id="right_menu">
+        <h4>Some of My Codes</h4>
+        <div class="navcontainer">
+            <ul class="navlist">
+            </ul>
+        </div>
+    </div>
+
+    <h3>Title</h3>
+    <p>So I'm not really sure what I'll do with this yet, make a
+        more friendly home page for my code.  <a
+            href="http://test.github.com">test</a> does some testing.
+    </p>
+</div>
+
+
+<div id="footer"><p>&copy; <a href="http://setzweb.com">me</a> | Created by me 2013 | Valid Xhtml 1.0 Strict! </p></div>
+</div></body></html>
