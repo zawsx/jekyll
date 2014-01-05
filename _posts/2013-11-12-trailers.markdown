@@ -1,0 +1,232 @@
+---
+layout: page
+status: publish
+published: true
+title: trailers
+author: wp1admin
+author_login: wp1admin
+author_email: wpsu@setzweb.com
+wordpress_id: 16
+wordpress_url: http://mywpsu.tld/?page_id=16
+date: 2013-11-12 15:53:12.000000000 +00:00
+categories: []
+tags: []
+comments: []
+---
+<table style="border-color: #000000; border-width: 1px; width: 100%;" summary="Trailers" border="1" cellspacing="1" cellpadding="1" align="center"><caption>Festival Trailers<&#47;caption>
+<tbody>
+<tr>
+<td width="32%">
+<h4 style="text-align: center;">Thursday 21st<&#47;h4>
+<h3 style="text-align: center;">LES AMANTS DU PONT-NEUF<&#47;h3>
+<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<h4 style="text-align: center;">&nbsp;Friday 22nd<&#47;h4>
+<h3 style="text-align: center;">ROUND TRIP<&#47;h3>
+<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<h4 style="text-align: center;">&nbsp;Saturday 23rd<&#47;h4>
+<h3 style="text-align: center;"><strong>WHOSE STREETS? WHOSE PLANET!!!<&#47;strong><&#47;h3>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">&nbsp;Opening Night Gala (21st November) LES AMANTS DU PONT-NEUF hosted by COLLAGE ARTS. With Parisian skyscapes and waterways as the backdrop, this film introduces us to Alex and his lover Michele as they struggle to overcome the harsh existence of the homeless&nbsp;by their wits alone&nbsp; in one of the world&rsquo;s most beautiful locations. One of the most expensive French films ever made.<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;HARINGEY WOMEN&rsquo;S FORUM presents ROUND TRIP, a film about&nbsp;Nurit and Mushidi who have come to Tel Aviv for very different reasons.&nbsp;When their friendship blossoms into something more, Nurit is forced to make a tough decision. Open to lesbians and bisexual women only.<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<p dir="ltr">WILDCAT ARTS COLLECTIVE rarely screened short film &amp; animation about life, love and liberty suitable for all ages under the banner WHOSE STREETS? WHOSE PLANET!!<&#47;p>
+<p dir="ltr">Followed with healthy snacks and a workshop led by a local artist.<&#47;p>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;les_amants_du_pont-neuf-lovers-on-the-bridge&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;and&nbsp;<a href="http:&#47;&#47;www.youtube.com&#47;watch?v=jM_YqjjjoEU">Trailer<&#47;a>&nbsp;(2:09)<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;round-trip&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;and&nbsp;<a href="http:&#47;&#47;www.youtube.com&#47;watch?v=UhpsixJ3gBA">Trailer<&#47;a>&nbsp;(3:14)<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;whose-streets-whose-planet&#47;" target="_blank">Festival Website page<&#47;a><&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">
+<div class="youtube" style="width: 350; height: 300;"><object width="350" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" &#47;><param name="src" value="http:&#47;&#47;www.youtube.com&#47;v&#47;jM_YqjjjoEU?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" &#47;><embed width="350" height="300" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;www.youtube.com&#47;v&#47;jM_YqjjjoEU?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" wmode="transparent" &#47;><&#47;object><&#47;div><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<div class="youtube" style="width: 350; height: 300;"><object width="350" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" &#47;><param name="src" value="http:&#47;&#47;www.youtube.com&#47;v&#47;UhpsixJ3gBA?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" &#47;><embed width="350" height="300" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;www.youtube.com&#47;v&#47;UhpsixJ3gBA?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" wmode="transparent" &#47;><&#47;object><&#47;div><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<&#47;td>
+<&#47;tr>
+<&#47;tbody>
+<&#47;table>
+
+<hr &#47;>
+
+<table style="border-color: #000000; border-width: 1px; width: 100%;" summary="Trailers" border="1" cellspacing="1" cellpadding="1" align="center"><caption>Festival Trailers<&#47;caption>
+<tbody>
+<tr>
+<td width="32%">
+<h4 style="text-align: center;">Saturday 23rd<&#47;h4>
+<h3 style="text-align: center;">PEEPLI LIVE<&#47;h3>
+<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<h4 style="text-align: center;">&nbsp;Sunday 24th<&#47;h4>
+<h3 style="text-align: center;">Diary for My Children<&#47;h3>
+<h3 style="text-align: center;">(Napl&oacute; gyermekeimnek)<&#47;h3>
+<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<h4 style="text-align: center;">&nbsp;Monday 25th<&#47;h4>
+<h3 style="text-align: center;"><strong>MORE THAN HONEY<&#47;strong><&#47;h3>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">&nbsp;SCREEN WOOD GREEN presents PEEPLI LIVE. In the village of Peepli, India, two brothers are unable to pay a loan so decide that one should kill himself for the benefit of the family.&nbsp;In Hindi with English subtitles.&nbsp;With Omkar Das Manikpuri, Raghuvir Yadav, Shalini Vatsa, Farrukh Jaffar.&nbsp;&ldquo;If&nbsp;Peepli [Live]&nbsp;can ride Danny Boyle&rsquo;s [Slumdog Millionaire] coattails to half that picture&rsquo;s success, it will be a reward richly deserved by this boisterous, poignant film.&rdquo;&nbsp;&ndash; Sight &amp; Sound<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;FILM EXPOSED presents a&nbsp;film from one of the world&rsquo;s foremost women directors,&nbsp;<strong>M&aacute;rta M&eacute;sz&aacute;ros.&nbsp;<&#47;strong>This deeply personal work is a reflection on&nbsp;M&eacute;sz&aacute;ros&rsquo; own experiences channelled via Juli, a young woman returning home to Budapest from the Soviet Union where her parents were exiled and had died.<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<p dir="ltr">TOTTENHAM AND WOOD GREEN FRIENDS OF THE EARTH, as part of the national Friends of the Earth Bee Cause Campaign, is holding a Bees Tea of foods pollinated by bees before screening the award-winning documentary MORE THAN HONEY, which combines breathtaking depictions of the lives of bees with worrying portrayals of how bees are in decline around the world.<&#47;p>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;peepli-live&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;and&nbsp;<a href="http:&#47;&#47;www.youtube.com&#47;watch?v=jM_YqjjjoEU">Trailer<&#47;a>&nbsp;(2:09)<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;diary-for-my-children-naplo-gyermekeimnek&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;and&nbsp;<a href="http:&#47;&#47;www.youtube.com&#47;watch?v=jZc9LjTUPF8">Trailer<&#47;a>&nbsp;(7:07)<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;more-than-honey&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;&nbsp;and&nbsp;<a href="http:&#47;&#47;www.youtube.com&#47;watch?v=Wh_IRrBeu-0" target="_blank">Trailer<&#47;a>&nbsp;(2:54)<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">
+<div class="youtube" style="width: 350; height: 300;"><object width="350" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" &#47;><param name="src" value="http:&#47;&#47;www.youtube.com&#47;v&#47;jM_YqjjjoEU?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" &#47;><embed width="350" height="300" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;www.youtube.com&#47;v&#47;jM_YqjjjoEU?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" wmode="transparent" &#47;><&#47;object><&#47;div><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<div class="youtube" style="width: 350; height: 300;"><object width="350" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" &#47;><param name="src" value="http:&#47;&#47;www.youtube.com&#47;v&#47;UhpsixJ3gBA?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" &#47;><embed width="350" height="300" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;www.youtube.com&#47;v&#47;UhpsixJ3gBA?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" wmode="transparent" &#47;><&#47;object><&#47;div><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<div class="youtube" style="width: 350; height: 300;"><object width="350" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" &#47;><param name="src" value="http:&#47;&#47;www.youtube.com&#47;v&#47;UhpsixJ3gBA?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" &#47;><embed width="350" height="300" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;www.youtube.com&#47;v&#47;UhpsixJ3gBA?autoplay=0&amp;rel=0&amp;hd=1&amp;autohide=1" wmode="transparent" &#47;><&#47;object><&#47;div><&#47;td>
+<&#47;tr>
+<&#47;tbody>
+<&#47;table>
+
+<hr &#47;>
+
+<table style="border-color: #000000; border-width: 1px; width: 100%;" summary="Trailers" border="1" cellspacing="1" cellpadding="1" align="center">
+<tbody>
+<tr>
+<td width="32%">
+<h4 style="text-align: center;">Tuesday 26th<&#47;h4>
+<h3 style="text-align: center;">FEAST ON FILM<&#47;h3>
+<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<h4 style="text-align: center;">&nbsp;Wednesday 27th<&#47;h4>
+<h3 style="text-align: center;">WHAT THE FRACK?<&#47;h3>
+<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<h4 style="text-align: center;">&nbsp;Wednesday 27th<&#47;h4>
+<h3 style="text-align: center;"><strong>MOMMA DON'T ALLOW<&#47;strong><&#47;h3>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">FEAST ON FILM's Haringey Festival &ldquo;Feast&rdquo; will feature shorts selected by resident &ldquo;Feast&rdquo; curator, James Rumsey (Rum Jam Films), Marc Hardman (Lucky Coin Films) and Mark Brown (Braine Hownd Films).<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">GREEN ON THE SCREEN is hosting WHAT THE FRACK? An exploration of the impact of the ecocide of fracking on the earth, our home with screenings and conversation.<&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">
+<p dir="ltr">BRUCE CASTLE MUSEUM is screening MOMMA DON&rsquo;T ALLOW - a 1954 documentary about a Saturday evening in a Wood Green jazz club, plus a couple of other shorts.<&#47;p>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;hello-world&#47;" target="_blank">Festival Website page<&#47;a><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;what-the-frack&#47;" target="_blank">Festival Website page<&#47;a><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;momma-dont-allow&#47;" target="_blank">Festival Website page<&#47;a><&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<&#47;tr>
+<tr>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<td width="2%"><&#47;td>
+<td width="32%"><&#47;td>
+<&#47;tr>
+<&#47;tbody>
+<&#47;table>
+
+<hr &#47;>
+
+<table style="border-color: #000000; border-width: 1px; width: 100%;" summary="Trailers" border="1" cellspacing="1" cellpadding="1" align="center">
+<tbody>
+<tr>
+<td width="48%">
+<h4 style="text-align: center;">Thursday 28th<&#47;h4>
+<h3 style="text-align: center;">CATHY COME HOME<&#47;h3>
+<&#47;td>
+<td width="4%"><&#47;td>
+<td width="48%">
+<h4 style="text-align: center;">&nbsp;Friday 29th<&#47;h4>
+<h3 style="text-align: center;">SLEEP FURIOUSLY<&#47;h3>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="48%">HARINGEY INDEPENDENT CINEMA is showing Ken Loach&rsquo;s seminal 1966 television play CATHY COME HOME - a hyper-realistic and sympathetic portrayal of a family ripped apart by poverty in contemporary England.<&#47;td>
+<td width="4%"><&#47;td>
+<td width="48%">
+<p dir="ltr">SCREEN WOOD GREEN presents SLEEP FURIOUSLY, a poetic and profound journey set in a small farming community in mid Wales where the Directors&rsquo;s refugee parents found a home. In English and Welsh.<&#47;p>
+<&#47;td>
+<&#47;tr>
+<tr>
+<td width="48%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;cathy-come-home&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;and&nbsp;<a title="Watch a short trailer" href="http:&#47;&#47;www.bbc.co.uk&#47;learningzone&#47;clips&#47;docu-drama-cathy-come-home-1966&#47;9858.html" target="_blank">Trailer<&#47;a>&nbsp;(2:42)<&#47;td>
+<td width="4%"><&#47;td>
+<td width="48%">&nbsp;<a title="Festival Website page for this event" href="http:&#47;&#47;www.haringeyfilmgroupfestival.org.uk&#47;round-trip&#47;" target="_blank">Festival Website page<&#47;a>&nbsp;and&nbsp;<a title="Watch a short trailer" href="http:&#47;&#47;www.youtube.com&#47;watch?v=xyCQNMLf1xM" target="_blank">Trailer<&#47;a>&nbsp;(2:02)<&#47;td>
+<&#47;tr>
+<tr>
+<td width="48%"><&#47;td>
+<td width="4%"><&#47;td>
+<td width="48%"><&#47;td>
+<&#47;tr>
+<tr>
+<td width="48%"><&#47;td>
+<td width="4%"><&#47;td>
+<td width="48%">
+<div class="youtube" style="width: 350; height: 300;"><object width="350" height="300" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http:&#47;&#47;download.macromedia.com&#47;pub&#47;shockwave&#47;cabs&#47;flash&#47;swflash.cab#version=6,0,40,0"><param name="wmode" value="transparent" &#47;><param name="src" value="http:&#47;&#47;www.youtube.com&#47;v&#47;xyCQNMLf1xM?autoplay=0&amp;hd=1&amp;autohide=1" &#47;><embed width="350" height="300" type="application&#47;x-shockwave-flash" src="http:&#47;&#47;www.youtube.com&#47;v&#47;xyCQNMLf1xM?autoplay=0&amp;hd=1&amp;autohide=1" wmode="transparent" &#47;><&#47;object><&#47;div><&#47;td>
+<&#47;tr>
+<&#47;tbody>
+<&#47;table>
+&nbsp;
+
+<hr &#47;>
+
+&ldquo;If&nbsp;Peepli [Live]&nbsp;can ride Danny Boyle&rsquo;s [Slumdog Millionaire] coattails to half that picture&rsquo;s success, it will be a reward richly deserved by this boisterous, poignant film.&rdquo;&nbsp;&ndash; Sight &amp; Sound
+SCREEN WOOD GREEN presents two very different evenings - PEEPLI LIVE In the village of Peepli, India, two brothers are unable to pay a loan so&nbsp;decide that one should kill himself for the benefit of the family&nbsp;and SLEEP FURIOUSLY, a poetic and profound journey set in a small farming community in mid Wales where the Directors&rsquo;s refugge parents found a home. In English and Welsh.
+FILMEXPOSED is screening DIARY FOR MY CHILDREN from one of the world&rsquo;s foremost women directors, M&aacute;rta M&eacute;sz&aacute;ros.
+TOTTENHAM AND WOOD GREEN FRIENDS OF THE EARTH presents, as part of the national Friends of the Earth Bee Cause Campaign, the award-winning documentary MORE THAN HONEY combining breathtaking depictions of the lives of bees with worrying portrayals of how bees are in decline around the world.
+FEAST ON FILM's Haringey Festival &ldquo;Feast&rdquo; will feature shorts selected by resident &ldquo;Feast&rdquo; curator, James Rumsey (Rum Jam Films), Marc Hardman (Lucky Coin Films) and Mark Brown (Braine Hownd Films).
+GREEN ON THE SCREEN presents WHAT THE FRACK? An exploration of the impact of the ecocide of fracking on the earth, our home.
+BRUCE CASTLE MUSEUM is screening MOMMA DON&rsquo;T ALLOW - a 1954 documentary about a Saturday evening in a Wood Green jazz club, plus a couple of other shorts.
+HARINGEY INDEPENDENT CINEMA is showing Ken Loach&rsquo;s seminal 1966 television play CATHY COME HOME - a hyper-realistic and sympathetic portrayal of a family ripped apart by poverty in contemporary England.

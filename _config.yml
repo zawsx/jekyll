@@ -1,0 +1,8 @@
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
+permalink: /:title
+baseurl: "http://zawsx.github.io/"
+# now use {{ site.baseurl }} in html and run locally with jekyll serve --watch --baseurl= (prob dont need http://localhost:4000)
+safe: true
+# disable custom plugins
